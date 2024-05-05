@@ -6,3 +6,4 @@ Tres algoritmos distintos fueron puestos a prueba para la aplicación: Yolov8, R
 
 En el archivo "Informe_Final_Completo_Solis_Cristofher" se detalla a fondo el proceso de diseño e implementación del proyecto. 
 
+![image](https://github.com/Cristofhersj/ADAS-ECU-Simulator/assets/71050835/9fe092fa-1e83-42de-93b2-6e38ca950c4d)
